@@ -1,0 +1,7 @@
+playbook_id,holdout_queries,top1_correct,top1_accuracy_pct
+CoSell_Deal_Execution_Troubleshooting_Playbook,520,465,89.42
+Competitive_Objection_Collateral_Playbook,520,467,89.81
+Joint_ValueProp_Pricing_TCO_Playbook,520,501,96.35
+MultiVendor_Bundle_Packaging_Playbook,680,644,94.71
+Partner_GTM_Launch_Onboarding_Playbook,320,308,96.25
+Security_ZeroTrust_Compliance_Playbook,520,430,82.69
